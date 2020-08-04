@@ -44,11 +44,11 @@ Time resolutions at ~1 MHz (ΔT: 1µs), perfect for hobby application.
 
 - Start installing via "Replace Driver" 
 
-  ![zadig 1](Pictures/zadig 1.jpg)
+  ![zadig 1](Pictures/zadig_1.jpg)
 
   ​															*before*
   
-  ![zadig 2](Pictures/zadig 2.jpg)
+  ![zadig 2](Pictures/zadig_2.jpg)
   
   ​															*after*
   
@@ -59,7 +59,7 @@ Time resolutions at ~1 MHz (ΔT: 1µs), perfect for hobby application.
     - if this fails or no device shows up, jump to Step 3
   - Now everything is setup
   
-  ![sigrok Connect](Pictures/sigrok Connect.jpg)
+  ![sigrok Connect](Pictures/sigrok_Connect.jpg)
   
   ### Step 3: Install drivers  (again)
   
@@ -69,11 +69,11 @@ Time resolutions at ~1 MHz (ΔT: 1µs), perfect for hobby application.
   
   
   
-  ![zadig 3](Pictures/zadig 3.jpg)
+  ![zadig 3](Pictures/zadig_3.jpg)
   
   ​															*before*
   
-  ![zadig 4](Pictures/zadig 4.jpg)
+  ![zadig 4](Pictures/zadig_4.jpg)
   
   ​															*after*
 
@@ -95,9 +95,19 @@ Time resolutions at ~1 MHz (ΔT: 1µs), perfect for hobby application.
 
 ![BoardExample](Pictures/BoardExample.jpg)
 
-![PulseView HelloWorld](Pictures/PulseView HelloWorld.jpg)
+![PulseView HelloWorld](Pictures/PulseView_HelloWorld.jpg)
 
 ​															The signal D0 is shown and decoded with the included UART Decoder to "Hello World"
+
+
+
+## Logic Analyzer Hat
+
+![pcb_render front](Pictures/pcb_render_front.jpg)
+
+![schematic](Pictures/schematic.svg)
+
+![pcb_front](Pictures/pcb_front.jpg)
 
 
 
